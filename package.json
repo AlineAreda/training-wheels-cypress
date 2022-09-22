@@ -1,0 +1,21 @@
+{
+  "name": "training-wheels",
+  "version": "1.0.0",
+  "description": "Projeto para exercitar como manipular elementos web com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "nodejs",
+    "training-wheels",
+    "qaninja"
+  ],
+  "author": "Aline Areda",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "9.7.0",
+    "cypress-real-events": "^1.7.1"
+  }
+}
